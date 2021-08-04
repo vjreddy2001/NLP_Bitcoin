@@ -1,4 +1,4 @@
-# NLP (Natural Processing Language)
+# NLP (Natural Language Processing)
 # Tales from the Crypto
 
 ![crypto-exchange](https://user-images.githubusercontent.com/83671629/128265537-0bdb02c0-4f4c-43ce-bae2-cb3155371da1.jpg)
