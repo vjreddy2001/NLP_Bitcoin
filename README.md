@@ -70,9 +70,9 @@ Finally, word clouds were generated for each coin to summarize the news for each
 
 In this section, I built a named entity recognition model for both coins and visualized the tags using SpaCy.
 
-![btc-ner.png](btc-ner.png)
+![btc-ner.png](btc_NER.png)
 
-![eth-ner.png](eth-ner.png)
+![eth-ner.png](eth_ner.png)
 
 
 
